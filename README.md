@@ -14,6 +14,6 @@ Steps for Configuration:
 4. To run the unit testing python test_app.py
 
 Steps to check the results
-1. Browse the localhost provided in the terminal http://127.0.0.1:5000 http://127.0.0.1:<port>
+1. Browse the localhost provided in the terminal http://127.0.0.1:5000
 2. It will show the crruent time in human friendly text
-3. For specific time browse http://127.0.0.1:<port>/time, input the time in the terminal in HH:MM format , will show the human friendly text in termal, also provides the result in JSON format.
+3. For specific time browse http://127.0.0.1:5000/time, input the time in the terminal in HH:MM format , will show the human friendly text in termal, also provides the result in JSON format.
